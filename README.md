@@ -27,3 +27,9 @@ Now that you have learned what your final structure should look like, add the ne
 **Step 2:**
 
 Again, we will use the Titanic model (your .pkl file) to create a web application that after inserting some passenger features into the form, it predicts if that passenger would survive or not. This time show your Streamlit new skills to make a beautiful web app.
+
+**Step 3:**
+
+Deploy your app to Heroku!
+
+>Use your 'Deploy model using Streamlit and Heroku' lesson to guide you on every step.
