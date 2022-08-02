@@ -2,7 +2,6 @@
 	"slug" : "ml-webapp-using-streamlit-tutorial",
 	"title" : "ML web app using Streamlit tutorial",
 	"preview": "https://github.com/4GeeksAcademy/ml-webapp-using-streamlit-tutorial/blob/main/preview.png?raw=true",
-	"solution": "https://github.com/4GeeksAcademy/ml-webapp-using-streamlit-tutorial/blob/main/solution_guide.ipynb",
 	"status": "published",
 	"translations": ["us"],
 	"technologies": ["data-science", "machine-learning"],
