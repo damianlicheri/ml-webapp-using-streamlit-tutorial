@@ -2,7 +2,7 @@
 # Machine learning web app using Streamlit
 <!-- endhide -->
 
-- In this project we will create a new web app, working again with the same model: predicting Titanic survival, but this time we will do it with python scripts using our new Streamlit skills! 
+- In this project we will create a machine learning web application. Again, you are free to choose the model you prefere from our previous projects. This time you will use python scripts with your new Streamlit skills! 
 
 >Don't forget to always be resourceful!
 
@@ -26,7 +26,7 @@ Now that you have learned what your final structure should look like, add the ne
 
 **Step 2:**
 
-Again, we will use the Titanic model (your .pkl file) to create a web application that after inserting some passenger features into the form, it predicts if that passenger would survive or not. This time show your Streamlit new skills to make a beautiful web app.
+Again, use the .pkl file (model) from your prefered project and build a your machine learning web application. This time show your Streamlit new skills to make a beautiful web app.
 
 **Step 3:**
 
