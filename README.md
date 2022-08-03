@@ -32,4 +32,4 @@ Again, we will use the Titanic model (your .pkl file) to create a web applicatio
 
 Deploy your app to Heroku!
 
->Use your [Deploy model using Streamlit and Heroku](https://link-url-here.orghttps://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-streamlit-and-heroku.md) lesson to guide you on every step.
+> Use your [Deploy model using Streamlit and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-streamlit-and-heroku.md) lesson to guide you on every step.
