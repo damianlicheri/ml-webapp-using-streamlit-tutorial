@@ -2,7 +2,7 @@
 # Machine learning web app using Streamlit
 <!-- endhide -->
 
-- In this project we will create a machine learning web application. Again, you are free to choose the model you prefere from our previous projects. This time you will use python scripts with your new Streamlit skills! 
+- In this project we will create a machine learning web application. Again, you are free to choose the model you prefer from our previous projects. This time you will use python scripts with your new Streamlit skills! 
 
 >Don't forget to always be resourceful!
 
@@ -11,7 +11,7 @@
 You will not be forking this time, please take some time to read this instructions:
 
 1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the recently created repostiroy on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
+2. Open the recently created repository on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
 3. Once Gitpod VSCode has finished opening you start your project following the Instructions below.
 
 ## 🚛 How to deliver this project
