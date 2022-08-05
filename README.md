@@ -32,4 +32,4 @@ Again, use the .pkl file (model) from your prefered project and build a your mac
 
 Deploy your app to Heroku!
 
-> Use your [Deploy model using Streamlit and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-streamlit-and-heroku.md) lesson to guide you on every step.
+> Use your [Deploy model using Streamlit and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-4d-ml_deploy/deploy-model-using-streamlit-and-heroku.md) lesson to guide you on every step.
