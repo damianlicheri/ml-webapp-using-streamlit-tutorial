@@ -8,5 +8,6 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+    "projectType": "project",
 	"description" : "Use Streamlit to create a machine learning web application to predict Titanic survival."
 }
