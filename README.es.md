@@ -1,33 +1,32 @@
 <!-- hide -->
-# Aplicación web de Machine Learning con Streamlit
+# Integración de un modelo de ML en Render usando Streamlit - Guía paso a paso
 <!-- endhide -->
 
-- En este proyecto, crearemos una aplicación web de Machine Learning. De nuevo, eres libre de elegir el modelo que prefieras de nuestros proyectos anteriores. ¡Esta vez usarás scripts de Python con tus nuevas habilidades de Streamlit!
-
-> ¡No te olvides de ser siempre ingenioso!
+- Buscar y comprender un dataset nuevo o utilizar el modelo del proyecto anterior.
+- Integrarlo en Render usando una aplicación basada en Streamlit.
 
 ## 🌱  Cómo iniciar este proyecto
 
-1. Crea un nuevo repositorio basado en el [proyecto de machine learning](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) haciendo [clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Abre el repositorio creado recientemente en Gitpod usando la [extensión del botón de Gitpod](https://www.gitpod.io/docs/browser-extension/).
-3. Una vez que Gitpod VSCode haya terminado de abrir, comienza tu proyecto siguiendo las instrucciones a continuación.
+Esta vez no se hará Fork, tómate un tiempo para leer estas instrucciones:
+
+1. Crear un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que hayas terminado de implementar tu aplicación streamlit, asegúrate de confirmar tus cambios, hazle push a tu repositorio y ve a 4Geeks.com para entregar y cargar el enlace de la aplicación web.
+Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, hazle "push" al fork de tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
 ## 📝 Instrucciones
 
-**Paso 1:**
+### Paso 1: Entrena un nuevo modelo o elige el del proyecto anterior
 
-Ahora que has aprendido cómo debería verse su estructura final, agrega los archivos necesarios a la carpeta del proyecto actual para tener la estructura correcta y edita los necesarios.
+En el módulo de despliegue con Flask buscamos un conjunto de datos y entrenamos un modelo que posteriormente utilizamos en una aplicación web desarrollada en Flask y que desplegamos en Render. En este proyecto puedes utilizar el mismo modelo y cambiar únicamente la aplicación web, o buscar otro conjunto de datos y entrenar un nuevo modelo.
 
-**Paso 2:**
+### Paso 2: Desarrolla una aplicación web usando Streamlit
 
-Nuevamente, usa el archivo .pkl (modelo) de tu proyecto preferido y crea tu aplicación web de Machine Learning. Esta vez, muestra tus nuevas habilidades con Streamlit para crear una hermosa aplicación web.
+Con los conocimientos adquiridos en este módulo, desarrolla una interfaz para poder utilizar el modelo. Dale el estilo que más te convenga y anota los recursos externos que hayas utilizado para el desarrollo.
 
-**Paso 3:**
+### Paso 3: Integra el modelo y la aplicación en Render
 
-¡Implementa tu aplicación en Heroku!
-
-> Usa tu lección [Modelo deploy usando Streamlit y Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-4d-ml_deploy/deploy-model-using-streamlit-and-heroku.md) para guiarte en cada paso.
+Crea un servicio gratuito en Render e integra el trabajo que has hecho para poder desplegar la aplicación web en línea. No olvides de incluir el enlace al servicio en tu repositorio.
