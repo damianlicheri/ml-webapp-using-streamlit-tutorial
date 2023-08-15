@@ -4,7 +4,7 @@
 	"preview": "https://github.com/4GeeksAcademy/ml-webapp-using-streamlit-tutorial/blob/main/preview.png?raw=true",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning"],
+	"technologies": ["data-science", "machine-learning", "python", "flask"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 1,
